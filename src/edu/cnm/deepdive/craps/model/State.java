@@ -1,5 +1,10 @@
 package edu.cnm.deepdive.craps.model;
 
+
+/**
+ *
+ */
+
 public enum State {
   COME_OUT  {
     @Override
